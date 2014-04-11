@@ -25,11 +25,11 @@ namespace TabTextEditor
 {
     public partial class Form1 : Form
     {
-		private TabPage tp;			//variable for each tab
-		private int tabNumber = 1;  //counts tab count; potentially unncessary
-		private string path = null, fileName;	//variable "path" stores path of opened file, variable "fileName" stores the files name(whether new file or opened file)
-		private RichTextBox r;		//for each RichTextBox created when new tab/file is created
-		private SaveFileDialog saveFile1 = new SaveFileDialog();	//For saving files; unnecessary as declared and intitialized later and does not need to be gloabl
+	private TabPage tp;			//variable for each tab
+	private int tabNumber = 1;  //counts tab count; potentially unncessary
+	private string path = null, fileName;	//variable "path" stores path of opened file, variable "fileName" stores the files name(whether new file or opened file)
+	private RichTextBox r;		//for each RichTextBox created when new tab/file is created
+	private SaveFileDialog saveFile1 = new SaveFileDialog();	//For saving files; unnecessary as declared and intitialized later and does not need to be gloabl
 
 	/// <summary>
 	/// Initializes a new instance of the <see cref="TabTextEditor.Form1"/> class and sets starting states of application.
