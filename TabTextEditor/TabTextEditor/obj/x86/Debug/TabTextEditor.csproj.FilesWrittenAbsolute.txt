@@ -1,0 +1,7 @@
+/Users/brandonwalsh/Downloads/TabTextEditor/TabTextEditor/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/brandonwalsh/Downloads/TabTextEditor/TabTextEditor/obj/x86/Debug/TabTextEditor.Form1.resources
+/Users/brandonwalsh/Downloads/TabTextEditor/TabTextEditor/obj/x86/Debug/TabTextEditor.Properties.Resources.resources
+/Users/brandonwalsh/Downloads/TabTextEditor/TabTextEditor/bin/Debug/TabTextEditor.exe.mdb
+/Users/brandonwalsh/Downloads/TabTextEditor/TabTextEditor/bin/Debug/TabTextEditor.exe
+/Users/brandonwalsh/Downloads/TabTextEditor/TabTextEditor/obj/x86/Debug/TabTextEditor.exe
+/Users/brandonwalsh/Downloads/TabTextEditor/TabTextEditor/obj/x86/Debug/TabTextEditor.exe.mdb

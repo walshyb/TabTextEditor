@@ -1,0 +1,15 @@
+C:\Users\Brandon\AppData\Local\Temporary Projects\TabTextEditor\bin\Debug\TabTextEditor.exe
+C:\Users\Brandon\AppData\Local\Temporary Projects\TabTextEditor\bin\Debug\TabTextEditor.pdb
+C:\Users\Brandon\AppData\Local\Temporary Projects\TabTextEditor\obj\x86\Debug\TabTextEditor.Form1.resources
+C:\Users\Brandon\AppData\Local\Temporary Projects\TabTextEditor\obj\x86\Debug\TabTextEditor.Properties.Resources.resources
+C:\Users\Brandon\AppData\Local\Temporary Projects\TabTextEditor\obj\x86\Debug\TabTextEditor.csproj.GenerateResource.Cache
+C:\Users\Brandon\AppData\Local\Temporary Projects\TabTextEditor\obj\x86\Debug\TabTextEditor.exe
+C:\Users\Brandon\AppData\Local\Temporary Projects\TabTextEditor\obj\x86\Debug\TabTextEditor.pdb
+C:\Users\Brandon\Documents\Visual Studio 2010\Projects\TabTextEditor\TabTextEditor\obj\x86\Debug\TabTextEditor.exe
+C:\Users\Brandon\Documents\Visual Studio 2010\Projects\TabTextEditor\TabTextEditor\obj\x86\Debug\TabTextEditor.pdb
+C:\Users\Brandon\Documents\Visual Studio 2010\Projects\TabTextEditor\TabTextEditor\obj\x86\Debug\TabTextEditor.Form1.resources
+C:\Users\Brandon\Documents\Visual Studio 2010\Projects\TabTextEditor\TabTextEditor\obj\x86\Debug\TabTextEditor.Properties.Resources.resources
+C:\Users\Brandon\Documents\Visual Studio 2010\Projects\TabTextEditor\TabTextEditor\obj\x86\Debug\TabTextEditor.csproj.GenerateResource.Cache
+C:\Users\Brandon\Documents\Visual Studio 2010\Projects\TabTextEditor\TabTextEditor\bin\Debug\TabTextEditor.exe
+C:\Users\Brandon\Documents\Visual Studio 2010\Projects\TabTextEditor\TabTextEditor\bin\Debug\TabTextEditor.pdb
+C:\Users\Brandon\Documents\Visual Studio 2010\Projects\TabTextEditor\TabTextEditor\obj\x86\Debug\TabTextEditor.csprojResolveAssemblyReference.cache
