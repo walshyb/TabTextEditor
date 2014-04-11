@@ -36,9 +36,9 @@ namespace TabTextEditor
 	/// </summary>
         public Form1()
         {
-            InitializeComponent();
-			newFileToolStripMenuItem_Click(null, null);	//create new tab at start
-			this.FormClosing += new FormClosingEventHandler(messageBox_FormClosing);	  
+        	InitializeComponent();
+		newFileToolStripMenuItem_Click(null, null);	//create new tab at start
+		this.FormClosing += new FormClosingEventHandler(messageBox_FormClosing);	  
         }
 
 	/// <summary>
